@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**SBruno2025/SBruno2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, eu sou o Sérgio Bruno Godinho Gezat 👋
 
-Here are some ideas to get you started:
+Estudante de **Engenharia de Software - 4º Semestre (Uniasselvi)** em transição para TI.
+Focado em **Python, Lógica e Suporte Técnico**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Alvorada/RS | 🎯 Em busca de Estágio em TI / Suporte / Dev Python Jr
+🔗 [LinkedIn](https://www.linkedin.com/in/sérgio-godinho-gezat-177141326)
+
+#### 🚀 Tecnologias em formação
+- Python (Lógica, Tipos, Condicionais, Laços, Funções) - Curso em Vídeo
+- Git & GitHub - Versionamento
+- Lógica de Programação, Algoritmos
+
+#### 📂 Repositórios
+- curso-python-curso-em-video - Exercícios do Guanabara
+- Em breve: automações em Python
+
+💼 4 anos como Líder de Operações com gestão de equipe, indicadores e chamados via TEAMS/E-mail.
+
+📫 sergio.bruno.gezat@hotmail.com | (51) 9 8918-4470
